@@ -6,6 +6,7 @@
 $ cd ~/ros2_ws/src
 $ git clone --recurse-submodules https://github.com/mgonzs13/ros2_asus_xtion
 $ sudo apt install ros-humble-depth-image-proc
+$ sudo apt install ros-humble-gazebo-ros*
 $ cd ~/ros2_ws
 $ colcon build
 ```
